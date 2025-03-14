@@ -1,11 +1,10 @@
 # Blockman GO : BMV
 Private server enjoy your app download
+[![Download links](https://mega.nz/file/DsYmSTAT#bnJ4BGSJ_zFzwE6DWbPJSZgQTyBn0tAWASoWG2CjJY8)
 
-[![Discord](join](https://discord.gg/34HbFPEu)
+[![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/34HbFPEu)
 
 
-
-## Release Blockman GO: Blocky Mods BMV
 
 
 
