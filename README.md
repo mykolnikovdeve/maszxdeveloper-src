@@ -1,11 +1,11 @@
 # Blockman GO : BMV
 Private server enjoy your app download
 
-[![Discord](Join)(https://discord.gg/34HbFPEu)
+[![Discord](join](https://discord.gg/34HbFPEu)
 
 
 
-## Release Blockman GO : BMV
+## Release Blockman GO: Blocky Mods BMV
 
 
 
